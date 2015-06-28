@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>57824047-03FD-4F09-8330-9AC189614824</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SpeakToMe</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>491E56A8DEAD1862F3DB356492E5CAB895BA9FCD</key>
+		<string>https://github.com/NSMohamedElalfy/SpeakToMe.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SpeakToMe.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>491E56A8DEAD1862F3DB356492E5CAB895BA9FCD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/NSMohamedElalfy/SpeakToMe.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>491E56A8DEAD1862F3DB356492E5CAB895BA9FCD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>491E56A8DEAD1862F3DB356492E5CAB895BA9FCD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SpeakToMe</string>
+		</dict>
+	</array>
+</dict>
+</plist>
